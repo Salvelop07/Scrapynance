@@ -6,6 +6,6 @@ else
     SPIDER=$1
 fi
 
-cd scrapy-finance
+cd Scrapynance
 source ~/h/bin/activate
 scrapy crawl $SPIDER

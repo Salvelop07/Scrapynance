@@ -1,5 +1,11 @@
-# scrapy-finance
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/hardikp/scrapy-finance/blob/master/LICENSE)
+# Scrapynance
+
+>Scrapynance efficiently crawls financial data that's essential for training word vectors! 📊🕷️✨
+
+Sorry~~~ This project is [OUTDATED] and no longer maintained.
+If you're interested in this project, please contact me by issuing this repository.
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/Salvelop07/Scrapynance/blob/master/LICENSE)
 
 [scrapy](https://scrapy.org/) spiders to crawl the financial data pertinent to train word vectors.
 
@@ -19,7 +25,7 @@ pip3 install scrapy
 
 2. Run the `scrapy crawl` command.
 ```
-(py3) hardik@shire:~/scrapy-finance$ scrapy crawl bloomberg
+(py3) salvador@h:~/Scrapynance$ scrapy crawl bloomberg
 ```
 
 ## How to modify spiders for your use
